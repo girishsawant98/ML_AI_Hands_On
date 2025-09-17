@@ -1,2 +1,2 @@
-# ML_AI_Hands_On
+# Machine Learning Projects
 Machine Learning Hands On
